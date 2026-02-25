@@ -1,0 +1,15 @@
+Total hours per student 
+ Ali: 5
+ Sara: 3
+ Omar: 6
+ Laila: 4
+ Youssef: 2
+ Nour: 7
+ Hana: 3
+ Karim: 1
+Total hours per subject:
+  Math: 12
+  Physics: 6
+  CS: 13
+top student: Nour with 7 hours
+most studied subject: CS with 13 hours

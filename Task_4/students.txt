@@ -1,0 +1,8 @@
+Ali,5,Math
+Sara,3,Physics
+Omar,6,CS
+Laila,4,Math
+Youssef,2,Physics
+Nour,7,CS
+Hana,3,Math
+Karim,1,Physics
